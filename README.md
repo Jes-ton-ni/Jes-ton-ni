@@ -1,16 +1,16 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm <span style="color:#16a34a;">Jestoni Vargas</span></h1>
-<h3 align="center">💻 Full Stack Developer | Web Developer</h3>
+<h3 align="center">💻 Full Stack Developer | 🌍 Sorsogon, Philippines</h3>
 
 <p align="center">
-  <a href="mailto:vargasjestoni23@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white&color=EA4335"></a>
+  <a href="mailto:jestonivargas@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white&color=EA4335"></a>
 </p>
 
 ---
 
 ### 🧠 About Me
-I'm a passionate developer focused on building **useful and scalable web applications**.  
-I love working with **React**, **Node.js**, and **MySQL**, and turning ideas into reality.
+I'm a passionate developer who loves building **useful and scalable web applications**.  
+I specialize in **React**, **Node.js**, and **MySQL**, and enjoy creating modern solutions for real-world challenges.
 
 ---
 
@@ -21,16 +21,18 @@ I love working with **React**, **Node.js**, and **MySQL**, and turning ideas int
 
 ---
 
-### 🚀 Featured Project — [RabaSorsogon](https://rabasorsogon.com)
-A **web-based travel platform** that helps tourists explore Sorsogon.  
-🧭 Interactive maps • 🏨 Business listings • 📅 Booking system • 💼 Admin tools  
+### 🚀 Featured Project — [Extension Document Management System (EDMS)](https://csedms.bicol-u.edu.ph/)
+A secure and efficient platform designed for the  
+**Bicol University College of Science Extension Services Office** to manage and track documents digitally.  
+
+📂 Streamlined document workflows • 🔒 Role-based access • ⚙️ Real-time document tracking  
 
 ---
 
-### 🧩 Other Work
-- PowerPoint VBA game automation  
-- Interactive map tools (Leaflet + Routing Machine)  
-- Product & business management APIs  
+### 🧩 Other Projects
+- **PowerPoint VBA Game Automation** – countdown & scoring system  
+- **RabaSorsogon** – a web-based travel platform for tourists  
+- **Leaflet Map Tools** – route visualization & location-based interactions  
 
 ---
 
@@ -38,7 +40,6 @@ A **web-based travel platform** that helps tourists explore Sorsogon.
 <p align="center">
   <a href="mailto:jestonivargas@gmail.com"><img src="https://img.shields.io/badge/Gmail-jestonivargas%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/jestonivargas"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://rabasorsogon.com"><img src="https://img.shields.io/badge/Portfolio-Website-success?style=for-the-badge&logo=google-chrome"></a>
 </p>
 
 ---
