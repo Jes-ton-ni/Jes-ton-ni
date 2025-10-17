@@ -44,3 +44,7 @@ A secure and efficient platform designed for the
 ---
 
 <h4 align="center">⭐ "Code with purpose. Build with impact." ⭐</h4>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajlueXUwcXE5bmM1eDZpYjF1ZzNwdDE5N3pkOWR3NGtjNng2Znk4dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="300" alt="fun coding gif">
+</p>
