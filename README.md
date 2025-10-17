@@ -10,7 +10,7 @@
 
 ### 🧠 About Me
 I'm a passionate developer who loves building **useful and scalable web applications**.  
-I specialize in **React**, **Node.js**, and **MySQL**, and enjoy creating modern solutions for real-world challenges.
+I specialize in **React**, **Node.js**, **Laravel**, and **MySQL**, and enjoy creating modern solutions for real-world challenges.
 
 ---
 
