@@ -38,8 +38,7 @@ A secure and efficient platform designed for the
 
 ### 📬 Let's Connect
 <p align="center">
-  <a href="mailto:jestonivargas@gmail.com"><img src="https://img.shields.io/badge/Gmail-jestonivargas%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/jestonivargas"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:vargasjestoni23@gmail.com"><img src="https://img.shields.io/badge/Gmail-jestonivargas%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
