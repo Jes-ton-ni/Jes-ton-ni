@@ -16,7 +16,7 @@ I specialize in **React**, **Node.js**, **Laravel**, and **MySQL**, and enjoy cr
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,html,css,js,redux,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,php,mysql,html,css,js,tailwind,git" />
 </p>
 
 ---
