@@ -1,62 +1,48 @@
-# 👋 Hi, I'm Jestoni Vargas
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm <span style="color:#16a34a;">Jestoni Vargas</span></h1>
+<h3 align="center">💻 Full Stack Developer | 🌍 Sorsogon, Philippines</h3>
 
-Welcome to my personal repository!  
-This space serves as a collection of my projects, experiments, and learning journeys in **web development**.
-
----
-
-## 🧑‍💻 About Me
-
-- 💡 Passionate about building **useful, scalable web applications**
-- 🌐 Focused on **Full Stack Development** using **React**, **Node.js**, and **MySQL**
-- 💻 Comfortable with **frontend**, **backend**, and **database** design
-- ⚙️ Experienced in **API integration**, **data handling**, and **system deployment**
-- 🌍 Based in the Philippines 🇵🇭
+<p align="center">
+  <a href="mailto:jestonivargas@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white&color=EA4335"></a>
+  <a href="https://linkedin.com/in/jestonivargas"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
+  <a href="https://rabasorsogon.com"><img src="https://img.shields.io/badge/Portfolio-rabasorsogon.com-green?style=flat&logo=google-chrome"></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-
-### **Frontend**
-- React.js  
-- HTML / CSS / JavaScript
-- Tailwind CSS  
-
-### **Backend**
-- Node.js (Express)  
-- MySQL / MySQL2 (Promise-based)  
-- Laravel
-- PHP
-
-### **Tools & Deployment**
-- Git / GitHub  
-- Render (Backend hosting)  
-- Hostinger (File uploads & static hosting)
-- Hostinger VPS
-- CentOS / Ubuntu (Server environments)  
-- VirtualBox / WSL  
+### 🧠 About Me
+I'm a passionate developer focused on building **useful and scalable web applications**.  
+I love working with **React**, **Node.js**, and **MySQL**, and turning ideas into reality.
 
 ---
 
-## 🚀 Featured Project: RabaSorsogon
-**RabaSorsogon** is a **web-based travel essentials platform** for tourists in Sorsogon, Philippines.  
-It connects travelers with local businesses, accommodations, and attractions.
-
-**Features:**
-- 🧭 Interactive map for exploring tourist spots  
-- 🏨 Business and product listings  
-- 📅 Booking and reservation system  
-- 💼 Business application and approval flow  
-- 📸 Image gallery and product management  
-
-**Tech Stack:**
-> React.js + Node.js + MySQL + Redux + Leaflet + SweetAlert2
+### ⚙️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,html,css,js,redux,tailwind,git" />
+</p>
 
 ---
 
-## 📚 Other Projects
-- 🧩 PowerPoint VBA Game Automation – countdowns, scoring, and dynamic slides  
-- 🧮 Product and business management APIs with image handling  
-- ⚡ Interactive map-based applications using Leaflet Routing Machine  
+### 🚀 Featured Project — [RabaSorsogon](https://rabasorsogon.com)
+A **web-based travel platform** that helps tourists explore Sorsogon.  
+🧭 Interactive maps • 🏨 Business listings • 📅 Booking system • 💼 Admin tools  
 
 ---
+
+### 🧩 Other Work
+- PowerPoint VBA game automation  
+- Interactive map tools (Leaflet + Routing Machine)  
+- Product & business management APIs  
+
+---
+
+### 📬 Let's Connect
+<p align="center">
+  <a href="mailto:jestonivargas@gmail.com"><img src="https://img.shields.io/badge/Gmail-jestonivargas%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/jestonivargas"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://rabasorsogon.com"><img src="https://img.shields.io/badge/Portfolio-Website-success?style=for-the-badge&logo=google-chrome"></a>
+</p>
+
+---
+
+<h4 align="center">⭐ "Code with purpose. Build with impact." ⭐</h4>
