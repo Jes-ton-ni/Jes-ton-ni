@@ -1,8 +1,5 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm <span style="color:#16a34a;">Jestoni Vargas</span></h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jes-ton-ni&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
 <h3 align="center">💻 Full Stack Developer | Web Developer 💻</h3>
 
 <p align="center">
