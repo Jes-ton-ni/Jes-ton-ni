@@ -23,7 +23,7 @@ I specialize in **React**, **Node.js**, **Laravel**, and **MySQL**, and enjoy cr
 
 ### 🚀 Featured Project — [Extension Document Management System (EDMS)](https://csedms.bicol-u.edu.ph/)
 A secure and efficient platform designed for the  
-**Bicol University College of Science Extension Services Office** to manage and track documents digitally.  
+**Bicol University College of Science Extension Office** to manage and track documents digitally.  
 
 📂 Streamlined document workflows • 🔒 Role-based access • ⚙️ Real-time document tracking  
 
